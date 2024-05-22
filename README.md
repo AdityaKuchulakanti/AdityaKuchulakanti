@@ -1,6 +1,6 @@
 👋 Hey there, I’m Aditya - Crafting Code with Curiosity!🚀
 👀 Fueling my curiosity in Software Development for the enchanting worlds of Data Science, Statistics, and the magic of ML/DL & NLP.
-🎮 SDET Experiecne in Android Multimedia & DSP
+🎮 SW Test Experiecne in Android Multimedia & DSP
 🎮 SDET IoT experience with GOOGLE NEST Products.
 🌱 Currently on an epic journey, honing my skills in Data Science and unleashing Advanced AI at IIT-Madras.
 💡 Ready to collaborate on projects that redefine the boundaries of innovation and tech brilliance.
